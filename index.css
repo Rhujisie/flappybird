@@ -69,7 +69,7 @@ body{
 }
 .bird{
     --bird-size: 30px;
-    --bird-top: 200;
+    --bird-top: 230;
     position: absolute;
     width: var(--bird-size);
     height: var(--bird-size);
