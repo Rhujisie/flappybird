@@ -69,12 +69,12 @@ body{
 }
 .bird{
     --bird-size: 30px;
-    --bird-top: 450;
+    --bird-top: 200;
     position: absolute;
     width: var(--bird-size);
     height: var(--bird-size);
     top : calc(var(--bird-top) * 1px);
-    left: 300px;
+    left: 10vw;
     z-index: 1;
 }
 .bird > img{
